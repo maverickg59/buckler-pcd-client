@@ -5,7 +5,7 @@ $(document).ready(function(){
     event.preventDefault();
     var searchInput = $(".search-box").val()
 
-    $.get('https://cors-anywhere.herokuapp.com/https://buckler-pcd.herokuapp.com/api/v1/similars' + searchInput, function(data) {
+    $.get('https://cors-anywhere.herokuapp.com/https://buckler-pcd.herokuapp.com/api/v1/similars/' + searchInput, function(data) {
         console.log(data)
         var objLength = Object.keys(data).length
         var dataArray = Object.values(data)
