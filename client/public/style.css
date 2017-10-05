@@ -64,8 +64,8 @@ h1 {
 }
 .append {
   margin-top: 15px;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   height: 40px;
   text-align: left;
 }
@@ -80,9 +80,14 @@ h1 {
 .footerTwo {
   display: flex;
   flex-direction: row;
-  height: 35px;
+  height: 50px;
   background-color: #0d4f8b;
   width: 100%;
+  justify-content: space-between;
+}
+.tableHeaders {
+  display: flex;
+  flex-direction: row;
   justify-content: space-between;
 }
 .footerImg {
@@ -91,7 +96,7 @@ h1 {
   border-radius: 50%;
 }
 .footerNameOne {
-  font-size: 13px;
+  font-size: 20px;
   color: black;
   margin-top: 0px;
   margin-left: 10px;
@@ -100,11 +105,23 @@ h1 {
   font-weight: bolder;
 }
 .footerNameTwo {
-  font-size: 13px;
+  font-size: 20px;
   color: black;
   margin-top: 0px;
   margin-left: 0px;
   margin-right: 10px;
   margin-bottom: 0px;
   font-weight: bolder;
+}
+th {
+  text-align: left;
+}
+td {
+  text-align: left;
+}
+.coloredFirst {
+  background-color: #eee8aa;
+}
+.coloredSecond {
+  background-color: #add8e6;
 }
