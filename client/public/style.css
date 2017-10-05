@@ -4,7 +4,7 @@ body {
   border: 0px;
 }
 .navbar {
-  background-color: #0D4F8B;
+  background-color: #0d4f8b;
   width: 100%;
 }
 .navlogo {
@@ -16,16 +16,19 @@ body {
   margin-bottom: 0px;
   padding: 0px;
   border: 0px;
-  font-size: 20px;
+  font-size: 25px;
   color: white;
 }
 .main {
-  height: 700px;
+  height: 545px;
+}
+.append {
+  overflow: auto;
 }
 h1 {
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 5%;
+  margin-top: 2%;
   font-weight: lighter;
   border-bottom: 1px solid lightgray;
 }
@@ -39,7 +42,7 @@ h1 {
 }
 .search-btn {
   color: white;
-  background-color: #6495ED;
+  background-color: #6495ed;
   width: 100px;
   height: 40px;
   margin: 0px;
@@ -51,7 +54,7 @@ h1 {
 .search {
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 5%;
+  margin-top: 2%;
 }
 .search-box {
   border-radius: 5px;
@@ -65,4 +68,43 @@ h1 {
   margin-right: 10%;
   height: 40px;
   text-align: left;
+}
+.footerOne {
+  display: flex;
+  flex-direction: row;
+  height: 70px;
+  background-color: #0d4f8b;
+  width: 100%;
+  justify-content: space-between;
+}
+.footerTwo {
+  display: flex;
+  flex-direction: row;
+  height: 35px;
+  background-color: #0d4f8b;
+  width: 100%;
+  justify-content: space-between;
+}
+.footerImg {
+  margin: 12px;
+  height: 50px;
+  border-radius: 50%;
+}
+.footerNameOne {
+  font-size: 13px;
+  color: black;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+.footerNameTwo {
+  font-size: 13px;
+  color: black;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  font-weight: bolder;
 }
