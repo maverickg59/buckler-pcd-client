@@ -20,10 +20,14 @@ Logic: GET request to Heroku API asking to return all records matching given sea
 
 Data Science: Christine Buckler
 GitHub: https://github.com/christinebuckler/provider-prescriber
+
 LinkedIn: https://www.linkedin.com/in/christinebuckler/
 
 Web Development: Christopher White
 GitHub: https://github.com/maverickg59
+
 Back-end repo: https://github.com/maverickg59/buckler-pcd-server/tree/master/server
+
 Front-end repo: https://github.com/maverickg59/buckler-pcd-client/tree/master/client
+
 LinkedIn: https://www.linkedin.com/in/chrisewhite/
