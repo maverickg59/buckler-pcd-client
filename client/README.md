@@ -1,4 +1,4 @@
-Provider Prescriber is a project envisioned by Galvanize Data Science student Christine Buckler(find the data scienc info in her repo listed below). The purpose of this web service is for the user to input a National Provider Identifier and return ten providers (identifier and other information) with the closest provider credentials by Jaccard Distance. The link to the web app and a number of searchable NPI's can be found below:
+Provider Prescriber is a project envisioned by Galvanize Data Science student Christine Buckler(find data science info in her repo listed below). The purpose of this web service is for the user to input a National Provider Identifier and return ten providers (identifier and other information) with the closest provider credentials by Jaccard Distance. The link to the web app and a number of searchable NPI's can be found below:
 
 URL: https://buckler-pcd.firebaseapp.com/
 
@@ -16,7 +16,7 @@ Back-end: Node.js, Express, Knex, PostgreSQL, fast-csv, highland hosted on Herok
 
 Heroku API: https://buckler-pcd.herokuapp.com/api/v1/new-similars/
 
-Logic: GET request to Heroku API asking to return all records matching given search input where jaccard distance is >= 0. Simultaneously (kinda lolz), search input is sent to NPPES API using GET and response is appended to DOM in table format using template literal. Loop over JSON object from Heroku API where each iteration is sent to NPPES API. Each NPPES API response is appended to the DOM below given.
+Logic: GET request to Heroku API asking to return all records matching given search input where jaccard distance is >= 0. Simultaneously (kinda, lolz), search input is sent to NPPES API using GET and response is appended to DOM in table format using template literal. Loop over JSON object from Heroku API where each iteration is sent to NPPES API. Each NPPES API response is appended to the DOM below given.
 
 Data Science: Christine Buckler
 GitHub: https://github.com/christinebuckler/provider-prescriber
