@@ -19,11 +19,15 @@ Heroku API: https://buckler-pcd.herokuapp.com/api/v1/new-similars/
 Logic: GET request to Heroku API asking to return all records matching given search input where jaccard distance is >= 0. Simultaneously (kinda, lolz), search input is sent to NPPES API using GET and response is appended to DOM in table format using template literal. Loop over JSON object from Heroku API where each iteration is sent to NPPES API. Each NPPES API response is appended to the DOM below given.
 
 Data Science: Christine Buckler
+
 GitHub: https://github.com/christinebuckler/provider-prescriber
 
 LinkedIn: https://www.linkedin.com/in/christinebuckler/
 
+
+
 Web Development: Christopher White
+
 GitHub: https://github.com/maverickg59
 
 Back-end repo: https://github.com/maverickg59/buckler-pcd-server/tree/master/server
