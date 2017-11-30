@@ -15,8 +15,9 @@ NPI's:
 
 The web app portion of this project was created by Galvanize Web Development Immersive student Christopher White in his free time (this was not a required project for Mr. White).
 
-Front-end: HTML/CSS w/ jQuery handling DOM manipulation hosted on Firebase
-Back-end: Node.js, Express, Knex, PostgreSQL, fast-csv, highland hosted on Heroku
+* Front-end: HTML/CSS w/ jQuery handling DOM manipulation hosted on Firebase
+  
+* Back-end: Node.js, Express, Knex, PostgreSQL, fast-csv, highland hosted on Heroku
 
 Heroku API: https://buckler-pcd.herokuapp.com/api/v1/new-similars/
 
