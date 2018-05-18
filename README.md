@@ -1,3 +1,7 @@
+# Provider Prescriber
+
+![](https://github.com/maverickg59/buckler-pcd-client/blob/master/providerPrescriber.gif)
+
 Provider Prescriber is a project envisioned by Galvanize Data Science student Christine Buckler(find data science info in her repo listed below). The purpose of this web service is for the user to input a National Provider Identifier and return ten providers (identifier and other information) with the closest provider credentials by Jaccard Distance. The link to the web app and a number of searchable NPI's can be found below:
 
 URL: https://buckler-pcd.firebaseapp.com/
@@ -11,8 +15,9 @@ NPI's:
 
 The web app portion of this project was created by Galvanize Web Development Immersive student Christopher White in his free time (this was not a required project for Mr. White).
 
-Front-end: HTML/CSS w/ jQuery handling DOM manipulation hosted on Firebase
-Back-end: Node.js, Express, Knex, PostgreSQL, fast-csv, highland hosted on Heroku
+* Front-end: HTML/CSS w/ jQuery handling DOM manipulation hosted on Firebase
+  
+* Back-end: Node.js, Express, Knex, PostgreSQL, fast-csv, highland hosted on Heroku
 
 Heroku API: https://buckler-pcd.herokuapp.com/api/v1/new-similars/
 
