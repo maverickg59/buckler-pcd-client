@@ -95,6 +95,9 @@ h1 {
   height: 50px;
   border-radius: 50%;
 }
+a:hover {
+  opacity: .5;
+}
 .footerNameOne {
   font-size: 20px;
   color: black;
