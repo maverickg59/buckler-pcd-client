@@ -18,14 +18,12 @@ Provider Prescriber allows users to search locally for healthcare providers simi
 HTML5, CSS3, jQuery, Firebase, Node JS, Express, Knex, PostgreSQL, fast-csv, highland, Heroku
 
 
-Web App: *Christopher White*
-
-GitHub: *https://github.com/maverickg59*
-
-LinkedIn: *https://www.linkedin.com/in/chrisewhite/*
+Web App: *Christopher White* <br>
+GitHub: *https://github.com/maverickg59* <br>
+LinkedIn: *https://www.linkedin.com/in/chrisewhite/* <br>
 
 
 
-Data Science: *Christine Buckler*
-GitHub: *https://github.com/christinebuckler/provider-prescriber*
-LinkedIn: *https://www.linkedin.com/in/christinebuckler/*
+Data Science: *Christine Buckler* <br>
+GitHub: *https://github.com/christinebuckler/provider-prescriber* <br>
+LinkedIn: *https://www.linkedin.com/in/christinebuckler/* <br>
