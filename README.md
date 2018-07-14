@@ -9,8 +9,13 @@ Provider Prescriber allows users to search locally for healthcare providers simi
 [Provider Prescriber](https://buckler-pcd.firebaseapp.com/)
 
 ### NPI's:
-**| 1801899851 | 1063415016 | 1760485718 | 1699778613 | 1396748315 | 1184627101 | 1336142348 | 
-  | 1326041500 | 1740283753 | 1295738219 | 1124021134 | 1033112040 | 1669475679 | 1831192848 |**
+**| USE ANY OF | THESE NPI  | NUMBERS :) |
+  |------------|------------|------------|
+  | 1801899851 | 1063415016 | 1760485718 |
+  | 1396748315 | 1184627101 | 1336142348 |
+  | 1740283753 | 1295738219 | 1124021134 |
+  | 1669475679 | 1831192848 | 1699778613 |
+  | 1326041500 | 1033112040 |**
 
 ## Technologies
 HTML5, CSS3, jQuery, Firebase, Node JS, Express, Knex, PostgreSQL, fast-csv, highland, Heroku
