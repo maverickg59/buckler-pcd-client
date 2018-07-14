@@ -19,10 +19,14 @@ HTML5, CSS3, jQuery, Firebase, Node JS, Express, Knex, PostgreSQL, fast-csv, hig
 
 
 Web App: *Christopher White*
+
 GitHub: *https://github.com/maverickg59*
+
 LinkedIn: *https://www.linkedin.com/in/chrisewhite/*
 
 
 Data Science: *Christine Buckler*
+
 GitHub: *https://github.com/christinebuckler/provider-prescriber*
+
 LinkedIn: *https://www.linkedin.com/in/christinebuckler/*
